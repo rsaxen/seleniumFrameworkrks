@@ -1,0 +1,2 @@
+[32mINFO    [0m utlities.Base:test_login.py:14 Browser get opened
+[32mINFO    [0m utlities.Base:test_login.py:20 Search box got clicked
